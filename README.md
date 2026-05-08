@@ -27,7 +27,7 @@ The extracted features are scaled using standard scaling and evaluated across fo
 * `requirements.txt`: The list of Python dependencies required to run the application.
 
 ## Live Demo
-[Music Genre Classifier - Streamlit App](INSERT_YOUR_STREAMLIT_LINK_HERE)
+[[Music Genre Classifier - Streamlit App](https://music-genre-classifier-basemlmodels.streamlit.app/)]
 
 ## Usage
 1. Open the local web server link provided by Streamlit in your browser. 
