@@ -69,7 +69,7 @@ def extract_features(audio_path):
 
 # --- User Interface ---
 st.title("Music Genre Classifier")
-st.markdown("*- this is a research approach just to train machine learning models for a prediction task.*")
+st.markdown("*- this is a research approach to train machine learning models for a prediction task. Base ML models are not recommended for this task as they have a very low accuracy. This model is for demo purpose only, Furthermore, if you require better prediction accuracy, consider DNNs*")
 st.markdown("---")
 
 # Model Definitions
